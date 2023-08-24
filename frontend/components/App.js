@@ -8,8 +8,7 @@ import { Explanation } from "./Explanation";
 
 export default function App() {
 	const [nasaData, setNasaData] = useState({});
-	const API_KEY = "5E7dtZToHLz1LzZXhgyJt7TBq5HOPm1cYDbOzKaR";
-	const API_URL = `https://api.nasa.gov/planetary/apod?api_key=${API_KEY}`;
+	const API_URL = `http://localhost:9009/api/apod?api_key=DEMO_KEY`;
 	const fetch = () => {
 		let response = axios
 			.get(API_URL)

@@ -17,9 +17,6 @@ body {
 
 h1,
 h2 {
-	.container {
-		justify-content: center;
-	}
 	color: #93005a;
 }
 

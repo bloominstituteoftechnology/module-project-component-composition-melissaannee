@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import { NasaPhoto } from "./NasaPhoto";
-import { Title } from "./Title";
-import { Date } from "./Date";
-import { Copyright } from "./Copyright";
-import { Explanation } from "./Explanation";
+import NasaPhoto from "./NasaPhoto";
+import Title from "./Title";
+import Date from "./Date";
+import Copyright from "./Copyright";
+import Explanation from "./Explanation";
 
 export default function App() {
 	const [nasaData, setNasaData] = useState({});

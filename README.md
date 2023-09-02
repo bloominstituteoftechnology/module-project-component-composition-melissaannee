@@ -60,8 +60,8 @@ This is a really fun project, and one to show your family and friends when you'v
 
 ## Task 5: Consuming the data
 
-- [ ] Once you have made the call correctly, and logged the data, add the data to the state property you built.
-- [ ] Build out your other components. Compose your UI, and then pass the data to your children components via props so you can render it on the DOM.
+- [x] Once you have made the call correctly, and logged the data, add the data to the state property you built.
+- [x] Build out your other components. Compose your UI, and then pass the data to your children components via props so you can render it on the DOM.
 
 **Pro Tips**
 
@@ -85,7 +85,7 @@ This is a really fun project, and one to show your family and friends when you'v
 
 ## Submission Format
 
-- [ ] Submit a link to your github repo in your learning platform.
+- [x] Submit a link to your github repo in your learning platform.
 
 ---
 
